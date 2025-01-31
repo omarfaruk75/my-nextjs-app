@@ -1,9 +1,9 @@
-"use client";
+import React from "react";
 
 const ProfilePage = () => {
   return (
     <div>
-      <h2>Profile Page is in dashboard page </h2>
+      <h2>This is Profile page in Dashboard</h2>
     </div>
   );
 };

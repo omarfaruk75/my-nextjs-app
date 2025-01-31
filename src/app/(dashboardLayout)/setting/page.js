@@ -1,9 +1,9 @@
-"use client";
+import React from "react";
 
 const SettingPage = () => {
   return (
     <div>
-      <h3>Setting is indside in Profile Page</h3>
+      <h2>This is Setting Page in Dashboard Layout</h2>
     </div>
   );
 };
