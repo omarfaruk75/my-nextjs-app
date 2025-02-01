@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "productName": "Wireless Gaming Mouse",
+      "category": "Electronics",
+      "brand": "Logitech",
+      "price": 50,
+      "image": "https://i.ibb.co.com/xJqDrW2/dessert-bg.jpg"
+    },
+    {
+      "productName": "Smartphone X Pro",
+      "category": "Mobile Phones",
+      "brand": "Samsung",
+      "price": 800,
+      "image": "https://i.ibb.co.com/xJqDrW2/dessert-bg.jpg"
+    },
+    {
+      "productName": "Noise Cancelling Headphones",
+      "category": "Audio",
+      "brand": "Sony",
+      "price": 200,
+      "image": "https://i.ibb.co.com/xJqDrW2/dessert-bg.jpg"
+    },
+    {
+      "productName": "Mechanical Keyboard",
+      "category": "Accessories",
+      "brand": "Keychron",
+      "price": 90,
+      "image": "https://i.ibb.co.com/xJqDrW2/dessert-bg.jpg"
+    },
+    {
+      "productName": "4K Ultra HD Smart TV",
+      "category": "Home Entertainment",
+      "brand": "LG",
+      "price": 1199.99,
+      "image": "https://i.ibb.co.com/xJqDrW2/dessert-bg.jpg"
+    }
+  ]
+}

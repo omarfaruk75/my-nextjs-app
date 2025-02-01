@@ -1,5 +1,6 @@
-
-
+export const metadata = {
+  title: "Login",
+};
 const LoginPage = () => {
   return (
     <div>
